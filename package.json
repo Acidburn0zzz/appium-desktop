@@ -128,7 +128,7 @@
     "fix-path": "^2.1.0",
     "font-awesome": "4.x",
     "format-json": "1.x",
-    "highlight.js": "9.x",
+    "highlight.js": "10.x",
     "history": "^4.7.2",
     "i18next": "^17.0.3",
     "i18next-node-fs-backend": "^2.1.1",
