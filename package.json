@@ -207,7 +207,7 @@
     "run-s": "0.0.0",
     "sinon": "^7.3.1",
     "spectron": "^7.0.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "devEngines": {
     "node": ">=6.x",
